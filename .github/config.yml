@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: pyHIBP Issue Tracker
+    url: https://gitlab.com/kitsunix/pyHIBP/pyHIBP/-/issues
+    about: Please report issues here.
