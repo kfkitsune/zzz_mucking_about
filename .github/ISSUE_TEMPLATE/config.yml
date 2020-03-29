@@ -4,4 +4,5 @@ contact_links:
     url: https://gitlab.com/kitsunix/pyHIBP/pyHIBP/-/issues
     about: |
       Please report issues on the GitLab.com issue tracker.
-      You are able to log in via your GitHub account.
+      You are able to log in via your GitHub account in the
+      event you don't already have a GitLab.com account.
