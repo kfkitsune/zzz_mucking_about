@@ -3,6 +3,6 @@ contact_links:
   - name: pyHIBP Issue Tracker
     url: https://gitlab.com/kitsunix/pyHIBP/pyHIBP/-/issues
     about: |
-      Please report issues on the GitLab.com issue tracker.
-      You are able to log in via your GitHub account in the
-      event you don't already have a GitLab.com account.
+      Please report any issues on the GitLab.com issue tracker.
+      You may use your GitHub account to log into GitLab.com,
+      if desired.
